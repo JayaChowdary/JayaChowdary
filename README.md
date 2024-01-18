@@ -5,8 +5,7 @@
 - 📫 How to reach me jayachowdary9975@gmail.com
 - ⚡ Fun fact: I love talking to non responsive things
 
-## [My Profile](https://jayachowdary.github.io/JayaChowdary/)
-
+## [My Portfolio](https://jayachowdary.github.io/JayaChowdary/html/index.html)
 <!---
 JayaChowdary/JayaChowdary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
